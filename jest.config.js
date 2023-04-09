@@ -1,4 +1,3 @@
 module.exports = {
-    testingEnvironment:"jsdom",
-
+    "testEnvironment":"jsdom"
 }
